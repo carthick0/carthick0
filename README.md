@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Naga Venkata Karthikeya</h1>
 <p>A passionate frontend developer from india</p>
+![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
 # 💫 About Me:
 🔭 I’m currently working on Recipe Finder<br>🌱 I’m currently learning React, Node<br>💬 Ask me about React<br>📫 How to reach me karthikeyavempala@gmail.com
 
