@@ -1,3 +1,6 @@
+<h1>Hi 👋, I'm Naga Venkata Karthikeya</h1>
+<p>A passionate frontend developer from india</p>
+
 # 💫 About Me:
 🔭 I’m currently working on Recipe Finder<br>🌱 I’m currently learning React, Node<br>💬 Ask me about React<br>📫 How to reach me karthikeyavempala@gmail.com
 
