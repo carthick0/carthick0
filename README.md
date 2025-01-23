@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Naga Venkata Karthikeya</h1>
-<p>A passionate frontend developer from india</p>
-![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/me.gif)
+<p>A passionate frontend developer from India</p>
+<img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" alt="excited gif"/>
 # 💫 About Me:
 🔭 I’m currently working on Recipe Finder<br>🌱 I’m currently learning React, Node<br>💬 Ask me about React<br>📫 How to reach me karthikeyavempala@gmail.com
 
