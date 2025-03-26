@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Naga Venkata Karthikeya</h1>
 <p>A passionate frontend developer from India</p>
 # 💫 About Me:
-🔭 I’m currently working on Backend Technology<br>🌱 I’m currently learning TypeScript.<br>💬 Ask me about React<br>📫 How to reach me karthikeyavempala@gmail.com
+🔭 I’m currently working on Backend Technology.<br>🌱 I’m currently learning TypeScript.<br>💬 Ask me about React<br>📫 How to reach me karthikeyavempala@gmail.com
 
 
 ## 🌐 Socials:
