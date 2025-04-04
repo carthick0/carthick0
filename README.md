@@ -1,12 +1,12 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200 width=600" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
+  <img height="500 width=800" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
 </div>
 
 ###
 
-<h2 align="left">Hi 👋, I'm Vempala Naga Venkata Karthikeya</h2>
+<h3 align="left">Hi 👋, I'm Vempala Naga Venkata Karthikeya</h3>
 
 ###
 
