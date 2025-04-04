@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
+  <img height="200 width=600" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"  />
 </div>
 
 ###
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🎓 B.Tech in Computer Science & Engineering (AI&ML) @ Pragati Engineering College<br>✨ Creating bugs since: 2020<br>📚 I'm currently learning: TypeScript.<br>🎲 Fun fact: I debug my code like I defuse bombs – one wrong move and 💥</p>
+<p align="left">🎓 B.Tech in Computer Science & Engineering (AI&ML) @ Pragati Engineering College<br>💼 Frontend Developer Intern @ Learn Hyve<br> ✨Creating bugs since: 2020<br>📚 I'm currently learning: TypeScript.<br>🎲 Fun fact: I debug my code like I defuse bombs – one wrong move and 💥</p>
 
 ###
 
