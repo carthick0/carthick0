@@ -29,7 +29,19 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,mysql,html,css,tailwind,cpp,python,docker,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,html,css,tailwind,cpp,python,docker,git" />
+</div>
+
+###
+
+<h2 align="left">Connect with me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/vempalakarthikeya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 ###
