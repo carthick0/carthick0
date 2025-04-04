@@ -1,65 +1,74 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/Mg3Dk8k.gif" alt="banner" width="100%" />
+<h2 align="left">Hi 👋, I'm Vempala Naga Venkata Karthikeya</h2>
 
-<h1 align="center">Hi 👋, I'm Vempala Naga Venkata Karthikeya</h1>
-<h3 align="center">🚀 Frontend Developer Intern @ Learn Hyve | MERN Stack Enthusiast</h3>
+###
 
----
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
-### 🧑‍💻 About Me
+###
 
-- 🎓 B.Tech in Computer Science & Engineering (AI) @ Pragati Engineering College  
-- 👨‍💻 I love building smooth UIs and bringing ideas to life with **Next.js**, **React**, and **Tailwind**  
-- 💬 Ask me about anything frontend, animations, or full-stack projects  
-- 🌱 Currently learning: **Advanced animations**, **TypeScript**, and **Next.js 14 App Router**
+<br clear="both">
 
----
-
-### 🔧 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,tailwind,html,css,nodejs,express,mongodb,git,docker,postman,vscode" />
+<div align="right">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
 </div>
 
----
+###
 
-### 📈 GitHub Stats
+<h2 align="left">About me</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikeya-vempala&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikeya-vempala&theme=radical" width="47%" />
+###
+
+<p align="left">🎓 B.Tech in Computer Science & Engineering (AI&ML) @ Pragati Engineering College<br>✨ Creating bugs since: 2020<br>📚 I'm currently learning: TypeScript.<br>🎲 Fun fact: I debug my code like I defuse bombs – one wrong move and 💥</p>
+
+###
+
+<h2 align="left">Skills</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
----
+###
 
-### 🌟 Featured Projects
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carthick0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carthick0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [🎥 Netflix GPT](https://github.com/karthikeya-vempala/netflix-gpt) | Movie recommendation app with GPT integration | React, Firebase, Tailwind, TMDB |
-| [🍔 Food Ordering App](https://github.com/karthikeya-vempala/food-ordering-app) | Responsive food app with cart and dynamic UI | React, Context API, Tailwind |
-| [💬 Real-Time Chat App](https://github.com/karthikeya-vempala/chat-app) | Socket-based group chat system | Node.js, Express, Socket.io |
-| [📝 Quora Clone](https://github.com/karthikeya-vempala/quora-clone) | Q&A platform clone with backend | MERN Stack |
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carthick0/carthick0/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carthick0/carthick0/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/carthick0/carthick0/output/pacman-contribution-graph.svg">
+</picture>
 
-### ⚡ Fun Fact
-
-<img src="https://media.giphy.com/media/26xBIygOcC3bAWg3O/giphy.gif" width="300"/>
-
-> I debug my code like I defuse bombs – one wrong move and 💥
-
----
-
-### 📬 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vempala-karthikeya/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:karthikeyavempala@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://karthikeya.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
-> ⭐ Don’t forget to **follow** and **⭐ star** the repos you like!
-
+###
