@@ -2,7 +2,7 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; ; justify-content: space-between;">
   <div style="flex: 1;">
     <h2>📚 About Me</h2>
     <ul>
