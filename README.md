@@ -1,10 +1,10 @@
-<div align="left">
-  <h2>Hi 👋, I'm Vempala Naga Venkata Karthikeya</h2>
-  <p>Frontend Developer Intern @ Learn Hyve • Passionate about clean UI, animation, and performance ⚡</p>
-</div>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 2rem;">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" height="220" alt="Hello GIF" />
 
-<div align="right">
-  <img height="180" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Hello!" />
+  <div align="left">
+    <h2>Hi 👋, I'm Vempala Naga Venkata Karthikeya</h2>
+    <p>Frontend Developer Intern @ Learn Hyve • Passionate about clean UI, animation, and performance ⚡</p>
+  </div>
 </div>
 
 ---
@@ -12,6 +12,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering (AI & ML) @ Pragati Engineering College  
+- 💻 Frontend Developer Intern @ **Learn Hyve**  
 - ✨ Creating bugs since: **2020**  
 - 📚 Currently learning: **TypeScript**  
 - 🎲 Fun fact: I debug my code like I defuse bombs — one wrong move and 💥  
@@ -48,16 +49,6 @@
 
 ---
 
-### 🕹️ Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carthick0/carthick0/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carthick0/carthick0/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/carthick0/carthick0/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 ### 📫 Let’s Connect
 
 <p align="center">
@@ -71,4 +62,4 @@
 
 ---
 
-> ⚡ Thank you for stopping by! Feel free to follow me or ⭐ my repos 😄
+> ⚡ Thanks for stopping by! Feel free to follow me or ⭐ my repos 😄
