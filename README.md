@@ -16,7 +16,7 @@
 
 <p align="left">
 🎓 B.Tech in Computer Science & Engineering (AI&ML) @ Pragati Engineering College.<br>
-💼 Frontend Developer Intern @ Learn Hyve.<br>
+💼 MERN Stack Developer.<br>
 ✨ Creating bugs since: 2022.<br>
 📚 I'm currently learning: Cloud.<br>
 🎲 Fun fact: I debug my code like I defuse bombs – one wrong move and 💥.
