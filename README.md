@@ -19,7 +19,7 @@
 💼 MERN Stack Developer.<br>
 ✨ Creating bugs since: 2022.<br>
 📚 I'm currently learning: Cloud.<br>
-🎲 Fun fact: I debug my code like I defuse bombs – one wrong move and 💥
+🎲 Fun fact: I debug my code like I defuse bombs – one wrong move and 💥.
 </p>
 
 ###
