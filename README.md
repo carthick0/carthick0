@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">Hi, I'm Vempala Naga Venkata Karthikeya</h1>
+<h1 align="left">Hi, I'm Vempala Naga Venkata Karthikeya.</h1>
 
 ###
 
